@@ -28,9 +28,9 @@ Anaconda - Python 3.7
 <br>
 
 ## Program:
-``` Python
-### Developed By:
-### Register No:
+``` 
+### Developed By:S.Kishore
+### Register No:212222240050
 
 ## i) Write the frame as JPG file
 ```
@@ -132,10 +132,12 @@ cv2.destroyAllWindows()
 ## Output
 
 ### i) Write the frame as JPG image
-![OUTPUT](./image/frame.jpg)
+![OUTPUT](./image/frame1.jpg)
+
 
 ### ii) Display the video
-![OUTPUT](./image/frame1.jpg)
+
+![OUTPUT](./image/frame.jpg)
 
 
 ### iii) Display the video by resizing the window
